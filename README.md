@@ -19,16 +19,27 @@ A web application built with Streamlit that predicts the price of a laptop based
 # Features
 
 1-Interactive web app using Streamlit.
+
 2-Takes laptop specifications as input:
+
 3-Brand (Company)
+
 4-Type (Ultrabook, Gaming, etc.)
+
 5-RAM size
+
 6-Operating System
+
 7-Screen resolution & size
+
 8-Touchscreen, IPS, Retina display options
+
 9-CPU & GPU brand
+
 10-Primary & Secondary storage (size & type)
+
 11-Predicts laptop price in Euros (€).
+
 12-Simple and beginner-friendly deployment on Streamlit Cloud.
 
 # Installation
