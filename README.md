@@ -9,10 +9,15 @@ A web application built with Streamlit that predicts the price of a laptop based
 # Project Structure
 
 ├── app.py                # Streamlit web app
+
 ├── pipe.pkl              # Trained machine learning pipeline
+
 ├── df.pkl                # Dataframe with unique feature values (for dropdowns)
+
 ├── laptop_prices.csv     # Dataset used for training
+
 ├── requirements.txt      # Project dependencies
+
 └── README.md             # Project documentation
 
 
